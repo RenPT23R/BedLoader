@@ -1,6 +1,7 @@
 # Soooooo
 ## Imma RenPT23!
 This is Bedloader a "mod loader" made for MCBE/MCPE/MCCE and it just adds an library to the game
+# Do Not Forget 1.0.0 is broken use 1.0.1
 # Tutorial For Devs
 ## 1. How to access the API
 To access the API just insert in your code ( import { bedloaderAPI } from "/bedloader_bp/Scripts/bedloader.js"; )
@@ -13,10 +14,10 @@ Know the player dimension ( bedloaderAPI.getPlayerDimension(); )
 
 Know the player list ( bedloaderAPI.getPlayer(); )
 
-And by last open a custom GUI that is technically a browser ( bedloaderAPI.createCustomGUI(openURL); )
+And by last open a custom GUI that is technically a popup ( bedloaderAPI.createCustomGUI(text); )
 
 ## 3. Loader Block
-Does nothing, has no texture, its just used to mage sure that you have bedloader installed correctly you can get by opening chat and writing in ( /give @s bedloader:loader_block )
+Does nothing, has a texture, its just used to mage sure that you have bedloader installed correctly you can get by opening chat and writing in ( /give @s bedloader:loader_block )
 
 # Previews
 ## 1. Executing commands in scripts
