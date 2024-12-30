@@ -1,7 +1,7 @@
 # Soooooo
 ## Imma RenPT23!
 This is Bedloader a "mod loader" made for MCBE/MCPE/MCCE and it just adds an library to the game
-# Do Not Forget 1.0.0 is broken use 1.0.1
+# Do Not Forget 1.0.0 is broken use 1.0.1 or up
 # Tutorial For Devs
 ## 1. How to access the API
 To access the API just insert in your code ( import { bedloaderAPI } from "/bedloader_bp/Scripts/bedloader.js"; )
