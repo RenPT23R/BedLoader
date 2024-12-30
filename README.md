@@ -20,11 +20,9 @@ And by last open a custom GUI that is technically a popup ( bedloaderAPI.createC
 Does nothing, has a texture, its just used to mage sure that you have bedloader installed correctly you can get by opening chat and writing in ( /give @s bedloader:loader_block )
 
 # Previews
-## 1. Executing commands in scripts
-Maybe in version 1.1.0, BedLoader will have a function on the API called runCommand that could be accesed through ( bedloaderAPI.runCommand(/give (insert playerName here) bedloader:loader_block); ) 
-## 2. Sending players to a server (with their permission)
+## 1. Sending players to a server (with their permission)
 Maybe in version 1.2.0, Bedloader will have a function on the API called sendPlayerServer that could be accesed through ( bedloaderAPI.sendPlayerServer((insert serverIP here), (insert serverPort here), (insert playerName here)); )
-## 3. Your suggestions
+## 2. Your suggestions
 Suggest here something to bedloader 1.1.0 or 1.2.0
 And report bugs in 1.0.0 to be fixed on 1.0.x
 # Soooooo
