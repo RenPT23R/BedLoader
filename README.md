@@ -24,6 +24,6 @@ Does nothing, has a texture, its just used to mage sure that you have bedloader 
 Maybe in version 1.2.0, Bedloader will have a function on the API called sendPlayerServer that could be accesed through ( bedloaderAPI.sendPlayerServer((insert serverIP here), (insert serverPort here), (insert playerName here)); )
 ## 2. Your suggestions
 Suggest here something to bedloader 1.1.0 or 1.2.0
-And report bugs in 1.0.0 to be fixed on 1.0.x
+And report bugs in 1.1.0 - Beta to be fixed on 1.0.x and 1.1.0 or 1.1.x
 # Soooooo
 ## Bye do not forget Imma RenPT23!
